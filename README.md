@@ -1,5 +1,8 @@
 # 🐱🐶 AI-Powered Cat-Dog Image Classifier  
-![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red) ![Python](https://img.shields.io/badge/Python-3.x-blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
+![Streamlit](https://img.shields.io/badge/Deployed-Streamlit-red?style=for-the-badge)  
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?style=for-the-badge)
+
 
 ## 🚀 Overview  
 This project is an **AI-powered image classifier** that can distinguish between **cats and dogs**.  
