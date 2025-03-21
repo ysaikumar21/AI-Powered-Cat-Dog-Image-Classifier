@@ -1,5 +1,6 @@
 gdown==5.2.0
 numpy==2.2.4
-Pillow==11.1.0
+pandas==2.2.3
+plotly==6.0.0
+scikit_learn==1.6.1
 streamlit==1.43.2
-tensorflow==2.19.0
