@@ -1,24 +1,20 @@
 # 🐱🐶 AI-Powered Cat-Dog Image Classifier  
 ![Streamlit](https://img.shields.io/badge/Deployed-Streamlit-red?style=for-the-badge)  
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?style=for-the-badge)  
 
+🚀 **An AI-based deep learning model to classify images of cats and dogs**. The model is built using **TensorFlow & Keras (VGG19)** and deployed on **Streamlit Cloud**.  
 
-## 🚀 Overview  
-This project is an **AI-powered image classifier** that can distinguish between **cats and dogs**.  
-It uses a **deep learning model (VGG19)** trained with TensorFlow and Keras.  
-The model is hosted on **Google Drive**, and the app is deployed using **Streamlit Cloud**.  
-
-🔗 **Live Demo:** [AI-Powered Cat-Dog Classifier](https://ai-powered-cat-dog-image-classifier.streamlit.app/)
+🔗 **Live Demo:** [Click Here](https://ai-powered-cat-dog-image-classifiers.streamlit.app/)  
 
 ---
 
-## 🛠️ Features  
+## 📌 Features  
 ✔ **Upload an image** (JPG, PNG, JPEG)  
 ✔ **Real-time classification** (Cat 🐱 or Dog 🐶)  
 ✔ **Pre-trained model (VGG19)** for high accuracy  
 ✔ **Automatic model download** from Google Drive  
-✔ **Lightweight & easy to deploy**
+✔ **Deployed with Streamlit for an interactive UI**  
 
 ---
 
@@ -32,13 +28,13 @@ The model is hosted on **Google Drive**, and the app is deployed using **Streaml
 
 ## 🏗️ How It Works  
 1️⃣ **User uploads an image**  
-2️⃣ **Model processes the image**  
-3️⃣ **Prediction displayed on the UI**  
-4️⃣ **Automatic model download** (if missing) from Google Drive  
+2️⃣ **Model preprocesses the image & makes predictions**  
+3️⃣ **The result is displayed (Cat 🐱 or Dog 🐶)**  
+4️⃣ **Model file downloads automatically if missing**  
 
 ---
 
-## 🛠️ Installation Guide  
+## 🚀 Quick Setup  
 
 ### **1️⃣ Clone the Repository**  
 ```sh
@@ -49,7 +45,7 @@ sh
 Copy
 Edit
 pip install -r requirements.txt
-3️⃣ Run the Application
+3️⃣ Run the Application Locally
 sh
 Copy
 Edit
@@ -72,7 +68,7 @@ sh
 Copy
 Edit
 1e2vT2gSG0wW1hZ2p-q8o4DIHygwJwTZ1
-📌 Deployment
+🌐 Deployment
 The project is deployed on Streamlit Cloud. If you want to deploy your own version:
 
 1️⃣ Create a new repository on GitHub
@@ -97,9 +93,9 @@ csharp
 Copy
 Edit
 
-### **✅ Next Steps**  
+### **✅ Next Steps**
 1️⃣ **Save this file as `README.md`**  
-2️⃣ **Push it to GitHub:**  
+2️⃣ **Push it to GitHub:**
    ```sh
    git add README.md
    git commit -m "Added README for the project"
